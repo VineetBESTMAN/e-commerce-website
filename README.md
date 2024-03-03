@@ -51,10 +51,7 @@ User Cart
 ![cart](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/8dfb823c-a307-4837-9c4a-092391cf40a3)
 Checkout page
 ![change_address](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/555a21c1-d850-4d3d-87e2-a98c04077eea)
-Order Successful
-![order_placed_popup](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/ec4dc90f-2ed5-4c50-bd95-28c12d80591b)
-User Profile
-![edit_profile](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/c25d1813-3efd-4aba-a607-f1b19865e29d)
+
 User Wishlist
 ![view_wishlist](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/9d9d0911-7a34-486c-8e79-07d6aed0a39d)
 Change Password
