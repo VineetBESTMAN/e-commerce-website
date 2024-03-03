@@ -52,7 +52,7 @@ User Cart
 
 Change Password
 ![cahnge_password](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/6646f05b-9b66-4645-9ea4-4253a2dffc11)
-![otp](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/e8514564-1e32-470c-bac7-6bd5154ce21c)
+
 ![new_password](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/41224c8d-06bb-4680-8c21-75b879678cd4)
 
 
