@@ -55,8 +55,7 @@ Change Password
 ![otp](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/e8514564-1e32-470c-bac7-6bd5154ce21c)
 ![new_password](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/41224c8d-06bb-4680-8c21-75b879678cd4)
 
-Admin home page
-![admin_panel](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/5aec17c2-b906-420e-bffa-a7ba1fb7a491)
+
 Add category
 ![add_category](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/54a621dc-2bd5-4c41-89ab-e467c05f510c)
 Add product
@@ -67,8 +66,7 @@ View Products
 ![view_products](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/2934c4b4-cb3b-4233-a710-8d820a2b211e)
 View Orders
 ![view_orders](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/b9d6ee0f-d0b7-4e9d-b5d6-f76dd67bab25)
-View User's
-![view_users](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/9003ee4f-88db-4cc1-a339-95041c0155d8)
+
 Add Admin
 ![add_admin](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/014b7630-4641-4a1d-967d-752b5cbc4bb6)
 
