@@ -51,16 +51,6 @@ Change Password
 ![new_password](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/41224c8d-06bb-4680-8c21-75b879678cd4)
 
 
-Add category
-![add_category](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/54a621dc-2bd5-4c41-89ab-e467c05f510c)
-Add product
-![add_product](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/cdef67ca-e5d0-4582-a309-400c86134af6)
-View Category
-![view_category](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/c6d0baa4-3559-4ac7-87ee-cdbd66fed4b0)
-View Products
-![view_products](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/2934c4b4-cb3b-4233-a710-8d820a2b211e)
-View Orders
-![view_orders](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/b9d6ee0f-d0b7-4e9d-b5d6-f76dd67bab25)
 
 Add Admin
 
