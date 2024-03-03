@@ -43,12 +43,7 @@ Registration page
 ![user_registration](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/74a9cee7-b090-4289-b20a-5952cc2f37b5)
 Login page
 ![user_login](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/13025a16-c196-4f83-95da-855644108dea)
-All products
-![all_products](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/d91fd265-c5b9-4c70-826a-603f8d525553)
-Category wise filter
-![category_filter](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/507acfb9-12c4-4200-890b-e79171f6e0d2)
-User Cart
-![cart](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/8dfb823c-a307-4837-9c4a-092391cf40a3)
+
 
 Change Password
 ![cahnge_password](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/6646f05b-9b66-4645-9ea4-4253a2dffc11)
