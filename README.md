@@ -49,11 +49,7 @@ Category wise filter
 ![category_filter](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/507acfb9-12c4-4200-890b-e79171f6e0d2)
 User Cart
 ![cart](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/8dfb823c-a307-4837-9c4a-092391cf40a3)
-Checkout page
-![change_address](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/555a21c1-d850-4d3d-87e2-a98c04077eea)
 
-User Wishlist
-![view_wishlist](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/9d9d0911-7a34-486c-8e79-07d6aed0a39d)
 Change Password
 ![cahnge_password](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/6646f05b-9b66-4645-9ea4-4253a2dffc11)
 ![otp](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/e8514564-1e32-470c-bac7-6bd5154ce21c)
