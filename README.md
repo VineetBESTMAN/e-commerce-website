@@ -68,12 +68,10 @@ View Orders
 ![view_orders](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/b9d6ee0f-d0b7-4e9d-b5d6-f76dd67bab25)
 
 Add Admin
-![add_admin](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/014b7630-4641-4a1d-967d-752b5cbc4bb6)
+
 
 Email Example
-![successful_register_mail (1)](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/b415d82f-fed8-4f59-a9a0-ce9760c1baec)
-![order_confirm_mail (1)](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/e6ab034c-6633-4a6b-9e09-177f4c328134)
-![order_shipped_mail (1)](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/8733b6ea-431a-4dbf-86f8-edd749a6a2ec)
+
 ![reset_password_mail (1)](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/7a6511ff-7fb2-46a0-9296-e3614289028f)
 
 
